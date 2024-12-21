@@ -2,9 +2,9 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:test_auth/button.dart';
-import 'package:test_auth/email_field.dart';
+import 'package:test_auth/app_email_field.dart';
 import 'package:test_auth/style.dart';
-import 'package:test_auth/password_field.dart';
+import 'package:test_auth/app_password_field.dart';
 
 void main() {
   runApp(const MyApp());
